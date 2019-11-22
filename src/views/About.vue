@@ -1,5 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about lvfa-container">
+    <el-card>
+        <h1>This is an about page</h1>
+    </el-card>
   </div>
 </template>
